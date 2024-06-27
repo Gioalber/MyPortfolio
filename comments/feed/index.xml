@@ -11,13 +11,27 @@
 	<atom:link href="https://gioalber.github.io/MyPortfolio/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://gioalber.github.io/MyPortfolio</link>
 	<description></description>
-	<lastBuildDate>Thu, 27 Jun 2024 17:05:14 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Jun 2024 18:33:30 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
+		<title>
+		Comment on Hello world! by gioalber		</title>
+		<link>https://gioalber.github.io/MyPortfolio/2024/06/27/hello-world/#comment-2</link>
+
+		<dc:creator><![CDATA[gioalber]]></dc:creator>
+		<pubDate>Thu, 27 Jun 2024 18:33:30 +0000</pubDate>
+		<guid isPermaLink="false">https://gioalber.github.io/MyPortfolio/?p=1#comment-2</guid>
+
+					<description><![CDATA[hi]]></description>
+			<content:encoded><![CDATA[<p>hi</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
 		<link>https://gioalber.github.io/MyPortfolio/2024/06/27/hello-world/#comment-1</link>
